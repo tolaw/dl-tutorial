@@ -6,6 +6,11 @@ Use this link to open the stubs notebook in Google CoLab:
 
 ## Keras
 
+## NumPy
+[numpy.ndarray](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.html)  
+[numpy.ndarray.reshape](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.reshape.html)  
+[Slicing NumPy Arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)  
+
 ##### Sequential Model
 [keras.datasets.Sequential](https://keras.io/models/sequential/)  
 [keras.datasets.Sequential.compile](https://keras.io/models/sequential/#compile)  
@@ -19,7 +24,5 @@ Use this link to open the stubs notebook in Google CoLab:
 [keras.layers.convolutional.Conv2D](https://keras.io/layers/convolutional/#conv2d)  
 [keras.layers.convolutional.MaxPooling2D](https://keras.io/layers/pooling/#maxpooling2d)  
 
-## NumPy
-[numpy.ndarray](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.html)  
-[numpy.ndarray.reshape](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.reshape.html)  
-[Slicing NumPy Arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)  
+## Visualization with MatPlotLib
+[PyPlot Tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)  
