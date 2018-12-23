@@ -4,12 +4,12 @@ Use this link to open the stubs notebook in Google CoLab:
 
 # Reference Links
 
-## Keras
-
 ## NumPy
 [numpy.ndarray](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.html)  
 [numpy.ndarray.reshape](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.reshape.html)  
 [Slicing NumPy Arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)  
+
+## Keras
 
 ##### Sequential Model
 [keras.datasets.Sequential](https://keras.io/models/sequential/)  
