@@ -7,6 +7,7 @@ Use this link to open the stubs notebook in Google CoLab:
 ## NumPy
 [numpy.ndarray](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.html)  
 [numpy.ndarray.reshape](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.reshape.html)  
+  
 [Slicing NumPy Arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)  
 
 ## Keras
@@ -16,6 +17,9 @@ Use this link to open the stubs notebook in Google CoLab:
 [keras.datasets.Sequential.compile](https://keras.io/models/sequential/#compile)  
 [keras.datasets.Sequential.fit](https://keras.io/models/sequential/#fit)  
 [keras.datasets.Sequential.evaluate](https://keras.io/models/sequential/#evaluate)  
+  
+[Keras Optimizers](https://keras.io/optimizers/)  
+[Keras Loss Functions](https://keras.io/losses/)  
 
 ##### Layers  
 [keras.layers.Dense](https://keras.io/layers/core/#dense)  
@@ -23,6 +27,9 @@ Use this link to open the stubs notebook in Google CoLab:
 [keras.layers.Flatten](https://keras.io/layers/core/#flatten)  
 [keras.layers.convolutional.Conv2D](https://keras.io/layers/convolutional/#conv2d)  
 [keras.layers.convolutional.MaxPooling2D](https://keras.io/layers/pooling/#maxpooling2d)  
+  
+[Keras Weight Initialization](https://keras.io/initializers/)  
+[Keras Activation Functions](https://keras.io/activations/)
 
 ## Visualization with MatPlotLib
 [PyPlot Tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)  
