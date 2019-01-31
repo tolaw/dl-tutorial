@@ -25,7 +25,7 @@ The submitter of the best solution will receive a prize
 [numpy.ndarray](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.html)  
 [numpy.ndarray.reshape](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ndarray.reshape.html)  
   
-[Slicing NumPy arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)  
+[Slicing NumPy Arrays](https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/)  
 
 ## Keras
 
@@ -35,8 +35,8 @@ The submitter of the best solution will receive a prize
 [keras.datasets.Sequential.fit](https://keras.io/models/sequential/#fit)  
 [keras.datasets.Sequential.evaluate](https://keras.io/models/sequential/#evaluate)  
   
-[Keras optimizers](https://keras.io/optimizers/)  
-[Keras loss functions](https://keras.io/losses/)  
+[Keras Optimizers](https://keras.io/optimizers/)  
+[Keras Loss Functions](https://keras.io/losses/)  
 
 ##### Layers  
 [keras.layers.Dense](https://keras.io/layers/core/#dense)  
@@ -45,8 +45,12 @@ The submitter of the best solution will receive a prize
 [keras.layers.convolutional.Conv2D](https://keras.io/layers/convolutional/#conv2d)  
 [keras.layers.convolutional.MaxPooling2D](https://keras.io/layers/pooling/#maxpooling2d)  
   
-[Keras weight initialization](https://keras.io/initializers/)  
-[Keras activation functions](https://keras.io/activations/)
+[Keras Weight Initialization](https://keras.io/initializers/)  
+[Keras Activation Functions](https://keras.io/activations/)
 
 ## Visualization with MatPlotLib
-[PyPlot tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)  
+[PyPlot Tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)  
+
+# Tutorials on YouTube
+[Deep Learning](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
+[Python for beginners](https://youtu.be/yE9v9rt6ziw)  
