@@ -33,3 +33,7 @@ Use this link to open the stubs notebook in Google CoLab:
 
 ## Visualization with MatPlotLib
 [PyPlot Tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)  
+
+# Tutorials on YouTube
+[Deep Learning](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
+[Python for beginners](https://youtu.be/yE9v9rt6ziw)  
