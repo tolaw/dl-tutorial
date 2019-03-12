@@ -1,6 +1,23 @@
 # Deep Learning Tutorial
 Use this link to open the stubs notebook in Google CoLab:  
-[http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/stubs.ipynb](http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/stubs.ipynb)
+[http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/stubs.ipynb](http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/stubs.ipynb)  
+
+
+The notebook used in the tutorial:  
+[http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/reference.ipynb](http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/reference.ipynb)  
+
+
+# Hebrew Letters Challenge
+Download the dataset from:  
+[https://github.com/tolaw/dl-tutorial/raw/master/hebrew/train.zip](https://github.com/tolaw/dl-tutorial/raw/master/hebrew/train.zip)  
+
+Pre-process the data, build and train a model that predicts the correct letter  
+Your solution should include:
+1. Your code as a Jupyter notebook
+2. A python function `predict(image_path)` that receives a path to an unprocessed image, runs pre-processing, predicts the correct label and returns it as a number (`0`, `1` or `2`)  
+
+The models will be tested on a separate test dataset  
+The submitter of the best solution will receive a prize
 
 # Reference Links
 
