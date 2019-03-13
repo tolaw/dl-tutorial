@@ -21,6 +21,8 @@ Your solution should include:
 The models will be tested on a separate test dataset  
 The submitter of the best solution will receive a prize
 
+Please submit your solutions to Tola.Waisman@cellebrite.com before March 26
+
 # Reference Links
 
 ## NumPy
