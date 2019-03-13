@@ -6,6 +6,8 @@ Use this link to open the stubs notebook in Google CoLab:
 The notebook used in the tutorial:  
 [http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/reference.ipynb](http://colab.research.google.com/github/tolaw/dl-tutorial/blob/master/reference.ipynb)  
 
+The presentation in the tutorial:  
+[https://github.com/tolaw/dl-tutorial/raw/master/Deep_Learning_Workshop.pdf](https://github.com/tolaw/dl-tutorial/raw/master/Deep_Learning_Workshop.pdf)  
 
 # Hebrew Letters Challenge
 Download the dataset from:  
